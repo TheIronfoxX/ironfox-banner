@@ -1,0 +1,9 @@
+*.bak*
+__pycache__/
+# lo personal de cada uno, no se sube
+paleta
+paletas/
+mis-paletas.txt
+# imagenes: cada uno pone la suya (son obras de otras personas)
+image.png
+themes/*.png
